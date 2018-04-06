@@ -1,0 +1,9 @@
+8
+~  	Coil		1.0	  1.0	  1.0
+E 	B-Sheet		1.0	  0.0	  0.0
+B 	B-Bridge	0.0	  0.0	  0.0
+S 	Bend		0.0	  0.8	  0.8
+T 	Turn		1.0	  1.0	  0.0
+H 	A-Helix		0.0	  0.0	  1.0
+G 	3-Helix		1.0	  0.0	  1.0
+I 	5-Helix		1.0	  0.6	  0.0
